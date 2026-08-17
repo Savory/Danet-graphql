@@ -97,6 +97,20 @@ ever starts serving.
 | `path`       | `string`  | `/graphql` | Path the endpoint is mounted at.                                    |
 | `playground` | `boolean` | `false`    | Serve GraphiQL to browser requests (`Accept: text/html`) on `path`. |
 
+## Playground
+
+With `playground: true`, opening the endpoint in a browser serves an interactive
+[GraphiQL](https://github.com/graphql/graphiql) editor against your schema:
+write queries with autocompletion and inline validation, run them, and browse
+the generated schema documentation. Requests with any other `Accept` header keep
+executing operations normally, so the same path serves both browsers and API
+clients.
+
+![GraphiQL playground running a todos query against a Danet app](https://raw.githubusercontent.com/Savory/Danet-graphql/main/.github/playground.png)
+
+Keep it for development: the playground is off by default and most apps should
+not enable it in production.
+
 ## Error behavior
 
 Failures always come back in GraphQL response shape, never as a transport-level

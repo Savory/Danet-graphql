@@ -1,7 +1,7 @@
 # Graph Report - Danet-graphql  (2026-08-17)
 
 ## Corpus Check
-- 22 files · ~7,999 words
+- 22 files · ~7,993 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary

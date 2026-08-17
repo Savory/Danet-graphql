@@ -16,11 +16,11 @@ export function graphiqlHtml(path: string): string {
 		</style>
 		<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
 		<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-		<link rel="stylesheet" href="https://unpkg.com/graphiql/graphiql.min.css" />
+		<link rel="stylesheet" href="https://unpkg.com/graphiql@3/graphiql.min.css" />
 	</head>
 	<body>
 		<div id="graphiql">Loading GraphiQL...</div>
-		<script crossorigin src="https://unpkg.com/graphiql/graphiql.min.js"></script>
+		<script crossorigin src="https://unpkg.com/graphiql@3/graphiql.min.js"></script>
 		<script>
 			const fetcher = GraphiQL.createFetcher({ url: ${JSON.stringify(path)} });
 			ReactDOM.createRoot(document.getElementById('graphiql')).render(

@@ -1,158 +1,170 @@
 {
   "deno.json": {
     "mtime": 1786940146.6503804,
-    "seen": 1786940175.00349,
+    "seen": 1786972935.1180842,
     "ast_hash": "37fe3f1fb9bff00bcb6c61618554585f",
     "semantic_hash": ""
   },
   "deps.ts": {
     "mtime": 1786939955.2296026,
-    "seen": 1786940175.0034912,
+    "seen": 1786972935.1180859,
     "ast_hash": "2688d138df0e37ee5b241dabf99b2e6f",
     "semantic_hash": ""
   },
   "mod.ts": {
     "mtime": 1786940151.671347,
-    "seen": 1786940175.003492,
+    "seen": 1786972935.1180859,
     "ast_hash": "a6490837601b5dbffc62b3f2e3fa35da",
     "semantic_hash": ""
   },
   "spec/coexistence.test.ts": {
     "mtime": 1786939138.4914677,
-    "seen": 1786940175.003492,
+    "seen": 1786972935.1180868,
     "ast_hash": "9eb6ebb0ae8e6e63936eefaf4c4f2bc9",
     "semantic_hash": ""
   },
   "spec/endpoint.test.ts": {
     "mtime": 1786939071.0247886,
-    "seen": 1786940175.003493,
+    "seen": 1786972935.1180868,
     "ast_hash": "1cd7e8546edf198919f643613076f494",
     "semantic_hash": ""
   },
   "spec/errors.test.ts": {
     "mtime": 1786939906.0175757,
-    "seen": 1786940175.003493,
+    "seen": 1786972935.118088,
     "ast_hash": "4a268deb9219e86b0b50f6b3b12503c5",
     "semantic_hash": ""
   },
   "spec/guard.test.ts": {
     "mtime": 1786939344.006226,
-    "seen": 1786940175.0034938,
+    "seen": 1786972935.118088,
     "ast_hash": "fc19746ff65306fe998b3da2189b07e0",
     "semantic_hash": ""
   },
   "spec/playground.test.ts": {
     "mtime": 1786939131.6833496,
-    "seen": 1786940175.0034938,
+    "seen": 1786972935.118089,
     "ast_hash": "0dae0bfefc198f6b392a23e084d1ebb2",
     "semantic_hash": ""
   },
   "spec/resolver.test.ts": {
     "mtime": 1786939088.7688456,
-    "seen": 1786940175.003495,
+    "seen": 1786972935.118089,
     "ast_hash": "193719c429f7b4a13f23c5cb3dfa3110",
     "semantic_hash": ""
   },
   "spec/startup.test.ts": {
     "mtime": 1786939911.0395472,
-    "seen": 1786940175.003495,
+    "seen": 1786972935.11809,
     "ast_hash": "1e0c255824503eae3a394b0b617ae92f",
     "semantic_hash": ""
   },
   "src/constants.ts": {
     "mtime": 1786939162.5491526,
-    "seen": 1786940175.003495,
+    "seen": 1786972935.11809,
     "ast_hash": "33b661313f4f4fc056df02f8ca8ee502",
     "semantic_hash": ""
   },
   "src/decorator.ts": {
     "mtime": 1786939167.2097714,
-    "seen": 1786940175.003496,
+    "seen": 1786972935.11809,
     "ast_hash": "5e8b1746edf82e6d20820981640969e3",
     "semantic_hash": ""
   },
   "src/handler.ts": {
     "mtime": 1786939927.578024,
-    "seen": 1786940175.003496,
+    "seen": 1786972935.118091,
     "ast_hash": "de02875dfb0938705c5294d883e9ac46",
     "semantic_hash": ""
   },
   "src/module.ts": {
     "mtime": 1786940156.6930714,
-    "seen": 1786940175.003497,
+    "seen": 1786972935.118091,
     "ast_hash": "77c18e72426c798888afbb08764511e4",
     "semantic_hash": ""
   },
   "src/params.ts": {
     "mtime": 1786939174.547056,
-    "seen": 1786940175.003497,
+    "seen": 1786972935.118092,
     "ast_hash": "3334f6d5420cd21cdf118f71c081cc10",
     "semantic_hash": ""
   },
   "src/playground.ts": {
-    "mtime": 1786939960.3606453,
-    "seen": 1786940175.003497,
-    "ast_hash": "801f99d09df0b9154b4845600eff6574",
+    "mtime": 1786972603.0860624,
+    "seen": 1786972935.118092,
+    "ast_hash": "3f62609c75c4ed1cc399ba7135dd1851",
     "semantic_hash": ""
   },
   "src/schema.ts": {
     "mtime": 1786939960.3618622,
-    "seen": 1786940175.003498,
+    "seen": 1786972935.118093,
     "ast_hash": "db312b328c143c77451606c00dbeccf1",
     "semantic_hash": ""
   },
   ".github/workflows/publish.yml": {
     "mtime": 1786939053.0518343,
-    "seen": 1786940175.003498,
+    "seen": 1786972935.118093,
     "ast_hash": "9922a8a3857d3b9daff94d14a08df27c",
     "semantic_hash": ""
   },
   ".github/workflows/run-tests.yml": {
     "mtime": 1786939053.051528,
-    "seen": 1786940175.003499,
+    "seen": 1786972935.118093,
     "ast_hash": "a1c1955549b86a903f79706f95c3cf5b",
     "semantic_hash": ""
   },
   "README.md": {
-    "mtime": 1786940141.627732,
-    "seen": 1786940175.003499,
-    "ast_hash": "0b229c4a04552f0f4005732b86977150",
-    "semantic_hash": ""
-  },
-  "openspec/changes/add-graphql-support/.openspec.yaml": {
-    "mtime": 1786922630.7480743,
-    "seen": 1786940175.0035,
-    "ast_hash": "0793a70fad8c756b2474de339bf494b9",
-    "semantic_hash": ""
-  },
-  "openspec/changes/add-graphql-support/design.md": {
-    "mtime": 1786923739.1165009,
-    "seen": 1786940175.0035,
-    "ast_hash": "f3722386aea912cf401019c2044b5d8e",
-    "semantic_hash": ""
-  },
-  "openspec/changes/add-graphql-support/proposal.md": {
-    "mtime": 1786923699.3743572,
-    "seen": 1786940175.0035,
-    "ast_hash": "b5db3a21152a980b04f3bc14781e8b10",
-    "semantic_hash": ""
-  },
-  "openspec/changes/add-graphql-support/specs/graphql/spec.md": {
-    "mtime": 1786923777.4005558,
-    "seen": 1786940175.003501,
-    "ast_hash": "6b5957691f01142c40a29e081234f7fb",
-    "semantic_hash": ""
-  },
-  "openspec/changes/add-graphql-support/tasks.md": {
-    "mtime": 1786940095.7552793,
-    "seen": 1786940175.003501,
-    "ast_hash": "504ba5d1e568b8e0d1a3161df969afbd",
+    "mtime": 1786972933.7001402,
+    "seen": 1786972935.118094,
+    "ast_hash": "6574662226fcd3e2ae573fc21b358ad6",
     "semantic_hash": ""
   },
   "openspec/config.yaml": {
     "mtime": 1786923014.9822845,
-    "seen": 1786940175.0035021,
+    "seen": 1786972935.1180968,
     "ast_hash": "a88f7d80935e1a432dc9b5affe49eb27",
+    "semantic_hash": ""
+  },
+  "openspec/changes/archive/2026-08-17-add-graphql-support/.openspec.yaml": {
+    "mtime": 1786922630.7480743,
+    "seen": 1786972935.118094,
+    "ast_hash": "0793a70fad8c756b2474de339bf494b9",
+    "semantic_hash": ""
+  },
+  "openspec/changes/archive/2026-08-17-add-graphql-support/design.md": {
+    "mtime": 1786923739.1165009,
+    "seen": 1786972935.1180952,
+    "ast_hash": "f3722386aea912cf401019c2044b5d8e",
+    "semantic_hash": ""
+  },
+  "openspec/changes/archive/2026-08-17-add-graphql-support/proposal.md": {
+    "mtime": 1786923699.3743572,
+    "seen": 1786972935.1180959,
+    "ast_hash": "b5db3a21152a980b04f3bc14781e8b10",
+    "semantic_hash": ""
+  },
+  "openspec/changes/archive/2026-08-17-add-graphql-support/specs/graphql/spec.md": {
+    "mtime": 1786923777.4005558,
+    "seen": 1786972935.1180959,
+    "ast_hash": "6b5957691f01142c40a29e081234f7fb",
+    "semantic_hash": ""
+  },
+  "openspec/changes/archive/2026-08-17-add-graphql-support/tasks.md": {
+    "mtime": 1786940095.7552793,
+    "seen": 1786972935.1180968,
+    "ast_hash": "504ba5d1e568b8e0d1a3161df969afbd",
+    "semantic_hash": ""
+  },
+  "openspec/specs/graphql/spec.md": {
+    "mtime": 1786970278.1768425,
+    "seen": 1786972935.118098,
+    "ast_hash": "cbd78d0de25b44a55b57984dba301d9a",
+    "semantic_hash": ""
+  },
+  ".github/playground.png": {
+    "mtime": 1786972868.24632,
+    "seen": 1786972935.118098,
+    "ast_hash": "60d1d3e961c6e86795bb7d0985b7c9a9",
     "semantic_hash": ""
   }
 }
