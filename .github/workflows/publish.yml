@@ -22,4 +22,4 @@ jobs:
           deno-version: canary
 
       - name: Publish package
-        run: deno publish --minimum-dependency-age 60
+        run: deno publish

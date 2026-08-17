@@ -1,6 +1,7 @@
 {
 	"name": "@danet/graphql",
 	"version": "0.1.0",
+	"minimumDependencyAge": "1h",
 	"description": "GraphQL module for Danet: serve a schema-first GraphQL endpoint from your application with DI-resolved resolvers, guards and an optional GraphiQL playground.",
 	"license": "MIT",
 	"exports": {
