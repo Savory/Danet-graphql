@@ -1,0 +1,18 @@
+{
+  "0": "ADDED Requirements",
+  "1": "schema.ts",
+  "2": "Query",
+  "3": "deno.json",
+  "4": "exclude",
+  "5": "TodoResolver",
+  "6": "handler.ts",
+  "7": "guard.test.ts",
+  "8": "tasks.md",
+  "9": "coexistence.test.ts",
+  "10": "design.md",
+  "11": "proposal.md",
+  "12": "endpoint.test.ts",
+  "13": "playground.test.ts",
+  "14": "startup.test.ts",
+  "15": "@danet/graphql"
+}
